@@ -54,6 +54,9 @@ def low_pass_filter(image, fsize):
 
 def gaussian_filter(image, sigma, negative = False):
 
+    """Creates a high/low-pass gaussian filter 
+    for the given image."""
+
     H, W = np.shape(image)
     mW = int(np.fix(0.5*W))
     mH = int(np.fix(0.5*H))   
