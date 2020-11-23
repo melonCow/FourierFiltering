@@ -1,5 +1,5 @@
 ## FourierFiltering
-Script for my Photonics course. Implements some basic Fourier image filtering.
+Photonics course script. Implements some basic Fourier image filtering.
 
 ### Requirements
 
