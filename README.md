@@ -1,11 +1,11 @@
-# FourierFiltering
-Basic script for my Photonics course. Implements image filtering utilizing Fourier transforms.
+## FourierFiltering
+Script for my Photonics course. Implements some basic Fourier image filtering.
 
-## Requirements
+### Requirements
 
 - Python 3.* with _numpy_ and _maplotlib_ modules installed 
 
-## Usage
+### Usage
 
 Just run the script in the terminal using:
   ```bash
@@ -13,7 +13,7 @@ Just run the script in the terminal using:
  ```
 and follow the script's instructions.
 
-## Examples
+### Examples
 
 <p align="center"> 
 <img src="examples/example1.png">
