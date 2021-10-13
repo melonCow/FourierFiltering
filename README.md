@@ -1,6 +1,5 @@
 ## FourierFiltering
-Basic implementation of Fourier image filters, 
-developed for my university course in Photonics.
+Basic Fourier image filtering implementation in Python.
 
 ### Requirements
 
